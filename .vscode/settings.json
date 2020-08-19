@@ -1,0 +1,13 @@
+{
+	"eslint.validate": ["javascript", "html", "vue"],
+	"eslint.options": {
+		"configFile": "./.eslintrc.js"
+	},
+	"eslint.enable": true,
+	"editor.acceptSuggestionOnEnter": "smart",
+	"editor.formatOnSave": true,
+	"vetur.format.options.tabSize": 4,
+	"editor.tabSize": 4,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true
+}
